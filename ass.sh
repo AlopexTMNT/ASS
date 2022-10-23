@@ -11,7 +11,7 @@ echo "The script won't ask you if a yes or no question becuase I can't be bother
 sleep 1
 sudo pacman -Syyu
 sleep 1
-sudo pacman -S xorg-server xorg-xinit libx11 libxinerama libxft webkit2gtk ranger vim mpv sxiv gimp zathura zathura-pdf-mupdf ttf-font-awesome firefox htop nitrogen rxvt-unicode texlive-most texlive-lang unclutter xf86-video-intel xclip man-db git alsa-utils alsa-firmware pulseaudio pulseaudio-alsa pavucontrol youtube-dl atomicparsley maim keepassxc xterm
+sudo pacman -S xorg-server xorg-xinit libx11 libxinerama libxft webkit2gtk ranger vim mpv sxiv gimp zathura zathura-pdf-mupdf ttf-font-awesome firefox htop nitrogen rxvt-unicode texlive-most texlive-lang unclutter xf86-video-intel xclip man-db git alsa-utils alsa-firmware pulseaudio pulseaudio-alsa pavucontrol youtube-dl atomicparsley maim keepassxc xterm nload
 sleep 1
 mkdir Mounts
 mkdir gits
