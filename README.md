@@ -1,3 +1,5 @@
+# OUTDATED, it's well... ASS
+
 # ASS
 Alopex Setup Script
 
